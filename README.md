@@ -1,1 +1,1 @@
-# basic_slider
+# basic_slider v1.0
