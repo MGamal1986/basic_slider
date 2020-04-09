@@ -1,0 +1,27 @@
+{
+  "name": "basic_slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGamal1986/basic_slider.git"
+  },
+  "author": "MGamal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MGamal1986/basic_slider/issues"
+  },
+  "homepage": "https://github.com/MGamal1986/basic_slider#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
